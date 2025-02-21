@@ -1,3 +1,3 @@
 console.log ("Olá, Git!");
 console.log ("Meu primeiro branch");
-console.log ("Opa me mano!")
+console.log ("Opa meu mano!")
